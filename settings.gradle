@@ -1,0 +1,5 @@
+include ':LoginModule'
+include ':TickerModule'
+include ':CoreModule'
+include ':app'
+rootProject.name = "ComponentExample"
